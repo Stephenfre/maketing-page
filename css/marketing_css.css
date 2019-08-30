@@ -151,7 +151,7 @@ header {
   flex-direction: row-reverse;
   justify-content: space-between;
   position: fixed;
-  background-color: black;
+  background-color: #ffd400;
   z-index: 9999;
   align-items: center;
   align-content: center;
@@ -1501,7 +1501,7 @@ footer {
   .cta-txt-container button {
     padding: 10px 22px;
     width: 45%;
-    border-radius: 5px;
+    border-radius: 50px;
     text-align: center;
     background-color: red;
     color: white;
